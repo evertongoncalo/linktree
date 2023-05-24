@@ -59,16 +59,23 @@ h3 {
     
     
 }
-.boxes li a {
+.boxes a {
     color: rgb(7, 2, 2);
     text-decoration: none;
+   
+    
+    
     
 }
 
 .boxes :hover {
     font-size: large;
-    font-weight: 600;
-    box-shadow: 0 0 8px white;
+    font-weight: 900;
+    text-decoration: none;
+    
+
+    
+
 }
 
 footer {
@@ -99,6 +106,4 @@ footer {
     
 }
 
-.icons :hover {
-    transform: scale(5);
-}
+
